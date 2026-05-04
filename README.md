@@ -1,6 +1,13 @@
 # videojuego.p1.programacion.pygame
 Videojuego tipo quiz (preguntas y respuestas) desarrollado para el primer semestre de la materia.
 
-El sentido de este trabajo es desarrollar la lógica de programación y el flujo del código usando cómo herramienta principal el lenguaje Python y su biblioteca Pygame.
+# Tecnologías
+- Python
+- Pygame
 
-El videojuego se encuentra desarrollado en base a dos consignas: una vía consola únicamente y otra haciendo uso de Pygame.
+# Finalidad
+- Aprender lógica de programación base
+- Manejar bucles de forma más compleja
+- Flujo del código manipulado por inputs
+- Manejo de pantallas vía Pygame
+
